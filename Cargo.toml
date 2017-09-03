@@ -1,0 +1,6 @@
+[package]
+name = "essay_analysis"
+version = "0.1.0"
+authors = ["Haze <admin@haze.pw>"]
+
+[dependencies]
